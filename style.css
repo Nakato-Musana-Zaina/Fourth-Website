@@ -1,0 +1,155 @@
+body{
+    background-color: cornsilk;
+    padding: 80px;
+}
+.textl{
+
+}
+.span1{
+    font-style: oblique;
+}
+.span2{
+   width: auto; 
+   padding: 25px;
+}
+.text3{
+    font-size: xx-large;
+    font-style: ;
+}.button1{
+    padding: 12px;
+    border-radius: 15%;
+    background-color: gray;
+}
+.play video{
+    width:5px;
+    height: 5px;
+}
+.sp1{
+    padding: ;
+}
+.wrap{
+    display: grid;
+    grid-template-columns: 2fr 4fr 4fr;
+    padding: 6px;
+    
+}
+.span3{
+    font-size: x-large;
+    font-style: calc();
+    padding: 25px;
+}
+.span4{
+font-size: x-large;
+font-style: oblique;
+padding: 25px;
+
+}
+.span5{
+    font-size: x-large;
+    font-style: initial;
+    padding: 25px;
+
+}
+.span6{
+    font-size: x-large;
+    font-style: oblique;
+    padding: 25px;
+}
+.span7{
+font-size: x-large;
+padding: 25px;
+}
+.vases{
+    display: flex;
+}
+.div2{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+
+.div3{
+    height: 80%;
+    padding: 20px;
+}
+.div4{
+    height: 150px;
+}
+.text4{
+    text-align: center;
+    font-size: larger;
+
+}
+.text6{
+font-size: x-large;
+
+}.button2{
+    padding: 18px;
+    width: 16%;
+    border-radius: 35%;
+}
+.image1{
+height: 100%;
+}
+.Div5{
+display: grid;
+grid-template-columns: 2fr 2fr;
+
+}
+.text7{
+    font-size: xx-large;
+}
+.div6{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}
+.text8{
+    font-size: larger;
+    text-align: center;
+}
+.text9{
+    text-align: center;
+}
+.image2{
+    height: 100%;
+}
+.image5{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+
+}.text9{
+    font-size: xx-large;
+    text-align: center;
+}.text10{
+    text-align: center;
+}
+.div8{
+    display: grid;
+    grid-template-columns: 4fr 4fr ;
+}
+.div10{
+    display: grid;
+    grid-template-columns: 4fr 4f 4fr 4fr;
+    padding: 12px;
+}
+.span9{
+    
+}
+.end{
+    padding: 1px;
+
+}
+.footer{
+   display: grid;
+grid-template-rows: table-row;
+grid-template-columns: repeat(4,1fr);
+    padding: 12px;
+}
+
+form{
+    margin: auto;
+    padding: 150px;
+}
+
+
+
